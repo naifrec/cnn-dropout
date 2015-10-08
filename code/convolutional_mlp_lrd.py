@@ -42,9 +42,13 @@ def evaluate_lenet5(initial_learning_rate=0.1, learning_rate_decay = 0.99, n_epo
                     nkerns=[20, 50], batch_size=500):
     """ Demonstrates lenet on MNIST dataset
 
-    :type learning_rate: float
-    :param learning_rate: learning rate used (factor for the stochastic
+    :type initial_learning_rate: float
+    :param initial_learning_rate: learning rate used (factor for the stochastic
                           gradient)
+                        
+    :type learning_rate_decay: float
+    :param learning_rate_decay: learning rate decay factor 
+                     (inferior to 1, close to 1 to avoid getting stuck at local optima)
 
     :type n_epochs: int
     :param n_epochs: maximal number of epochs to run the optimizer
