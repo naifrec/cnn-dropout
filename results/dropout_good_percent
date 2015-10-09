@@ -1,0 +1,150 @@
+Last login: Fri Oct  9 09:29:47 on ttys001
+Guillaumes-MacBook-Pro:~ Guillaume$ cd /Users/Guillaume/Dropbox/Projets/Machine\ Learning/Challenge\ -\ Scyfer/code 
+Guillaumes-MacBook-Pro:code Guillaume$ python convolutional_mlp_dropout.py
+... loading data
+... building the model
+... training
+training @ iter =  0
+epoch 1, minibatch 100/100, validation error 21.020000 %
+     epoch 1, minibatch 100/100, test error of best model 21.310000 %
+training @ iter =  100
+epoch 2, minibatch 100/100, validation error 11.900000 %
+     epoch 2, minibatch 100/100, test error of best model 12.250000 %
+training @ iter =  200
+epoch 3, minibatch 100/100, validation error 9.570000 %
+     epoch 3, minibatch 100/100, test error of best model 9.830000 %
+training @ iter =  300
+epoch 4, minibatch 100/100, validation error 8.120000 %
+     epoch 4, minibatch 100/100, test error of best model 8.310000 %
+training @ iter =  400
+epoch 5, minibatch 100/100, validation error 7.020000 %
+     epoch 5, minibatch 100/100, test error of best model 7.160000 %
+training @ iter =  500
+epoch 6, minibatch 100/100, validation error 6.030000 %
+     epoch 6, minibatch 100/100, test error of best model 6.410000 %
+training @ iter =  600
+epoch 7, minibatch 100/100, validation error 5.330000 %
+     epoch 7, minibatch 100/100, test error of best model 5.850000 %
+training @ iter =  700
+epoch 8, minibatch 100/100, validation error 4.660000 %
+     epoch 8, minibatch 100/100, test error of best model 5.270000 %
+training @ iter =  800
+epoch 9, minibatch 100/100, validation error 4.210000 %
+     epoch 9, minibatch 100/100, test error of best model 4.820000 %
+training @ iter =  900
+epoch 10, minibatch 100/100, validation error 3.910000 %
+     epoch 10, minibatch 100/100, test error of best model 4.420000 %
+training @ iter =  1000
+epoch 11, minibatch 100/100, validation error 3.730000 %
+     epoch 11, minibatch 100/100, test error of best model 4.090000 %
+training @ iter =  1100
+epoch 12, minibatch 100/100, validation error 3.460000 %
+     epoch 12, minibatch 100/100, test error of best model 3.750000 %
+training @ iter =  1200
+epoch 13, minibatch 100/100, validation error 3.320000 %
+     epoch 13, minibatch 100/100, test error of best model 3.530000 %
+training @ iter =  1300
+epoch 14, minibatch 100/100, validation error 3.250000 %
+     epoch 14, minibatch 100/100, test error of best model 3.410000 %
+training @ iter =  1400
+epoch 15, minibatch 100/100, validation error 3.040000 %
+     epoch 15, minibatch 100/100, test error of best model 3.190000 %
+training @ iter =  1500
+epoch 16, minibatch 100/100, validation error 2.900000 %
+     epoch 16, minibatch 100/100, test error of best model 3.080000 %
+training @ iter =  1600
+epoch 17, minibatch 100/100, validation error 2.790000 %
+     epoch 17, minibatch 100/100, test error of best model 2.930000 %
+training @ iter =  1700
+epoch 18, minibatch 100/100, validation error 2.690000 %
+     epoch 18, minibatch 100/100, test error of best model 2.810000 %
+training @ iter =  1800
+epoch 19, minibatch 100/100, validation error 2.590000 %
+     epoch 19, minibatch 100/100, test error of best model 2.750000 %
+training @ iter =  1900
+epoch 20, minibatch 100/100, validation error 2.550000 %
+     epoch 20, minibatch 100/100, test error of best model 2.560000 %
+training @ iter =  2000
+epoch 21, minibatch 100/100, validation error 2.510000 %
+     epoch 21, minibatch 100/100, test error of best model 2.510000 %
+training @ iter =  2100
+epoch 22, minibatch 100/100, validation error 2.450000 %
+     epoch 22, minibatch 100/100, test error of best model 2.420000 %
+training @ iter =  2200
+epoch 23, minibatch 100/100, validation error 2.390000 %
+     epoch 23, minibatch 100/100, test error of best model 2.350000 %
+training @ iter =  2300
+epoch 24, minibatch 100/100, validation error 2.240000 %
+     epoch 24, minibatch 100/100, test error of best model 2.240000 %
+training @ iter =  2400
+epoch 25, minibatch 100/100, validation error 2.300000 %
+training @ iter =  2500
+epoch 26, minibatch 100/100, validation error 2.190000 %
+     epoch 26, minibatch 100/100, test error of best model 2.160000 %
+training @ iter =  2600
+epoch 27, minibatch 100/100, validation error 2.180000 %
+     epoch 27, minibatch 100/100, test error of best model 2.070000 %
+training @ iter =  2700
+epoch 28, minibatch 100/100, validation error 2.150000 %
+     epoch 28, minibatch 100/100, test error of best model 1.950000 %
+training @ iter =  2800
+epoch 29, minibatch 100/100, validation error 2.060000 %
+     epoch 29, minibatch 100/100, test error of best model 1.970000 %
+training @ iter =  2900
+epoch 30, minibatch 100/100, validation error 2.050000 %
+     epoch 30, minibatch 100/100, test error of best model 1.920000 %
+training @ iter =  3000
+epoch 31, minibatch 100/100, validation error 1.980000 %
+     epoch 31, minibatch 100/100, test error of best model 1.880000 %
+training @ iter =  3100
+epoch 32, minibatch 100/100, validation error 1.990000 %
+training @ iter =  3200
+epoch 33, minibatch 100/100, validation error 1.940000 %
+     epoch 33, minibatch 100/100, test error of best model 1.790000 %
+training @ iter =  3300
+epoch 34, minibatch 100/100, validation error 1.850000 %
+     epoch 34, minibatch 100/100, test error of best model 1.710000 %
+training @ iter =  3400
+epoch 35, minibatch 100/100, validation error 1.850000 %
+training @ iter =  3500
+epoch 36, minibatch 100/100, validation error 1.810000 %
+     epoch 36, minibatch 100/100, test error of best model 1.710000 %
+training @ iter =  3600
+epoch 37, minibatch 100/100, validation error 1.820000 %
+training @ iter =  3700
+epoch 38, minibatch 100/100, validation error 1.780000 %
+     epoch 38, minibatch 100/100, test error of best model 1.730000 %
+training @ iter =  3800
+epoch 39, minibatch 100/100, validation error 1.730000 %
+     epoch 39, minibatch 100/100, test error of best model 1.630000 %
+training @ iter =  3900
+epoch 40, minibatch 100/100, validation error 1.760000 %
+training @ iter =  4000
+epoch 41, minibatch 100/100, validation error 1.690000 %
+     epoch 41, minibatch 100/100, test error of best model 1.620000 %
+training @ iter =  4100
+epoch 42, minibatch 100/100, validation error 1.710000 %
+training @ iter =  4200
+epoch 43, minibatch 100/100, validation error 1.610000 %
+     epoch 43, minibatch 100/100, test error of best model 1.590000 %
+training @ iter =  4300
+epoch 44, minibatch 100/100, validation error 1.600000 %
+     epoch 44, minibatch 100/100, test error of best model 1.560000 %
+training @ iter =  4400
+epoch 45, minibatch 100/100, validation error 1.610000 %
+training @ iter =  4500
+epoch 46, minibatch 100/100, validation error 1.640000 %
+training @ iter =  4600
+epoch 47, minibatch 100/100, validation error 1.570000 %
+     epoch 47, minibatch 100/100, test error of best model 1.490000 %
+training @ iter =  4700
+epoch 48, minibatch 100/100, validation error 1.580000 %
+training @ iter =  4800
+epoch 49, minibatch 100/100, validation error 1.570000 %
+training @ iter =  4900
+epoch 50, minibatch 100/100, validation error 1.560000 %
+     epoch 50, minibatch 100/100, test error of best model 1.450000 %
+Optimization complete.
+Best validation score of 1.560000 % obtained at iteration 5000, with test performance 1.450000 %
+The code for file convolutional_mlp_dropout.py ran for 232.70m
+Guillaumes-MacBook-Pro:code Guillaume$ 
