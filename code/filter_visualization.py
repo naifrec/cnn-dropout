@@ -231,7 +231,7 @@ def evaluate_lenet5(initial_learning_rate=0.1, learning_rate_decay = 1,
 
     train_model = theano.function(
         [index],
-        cost,
+        dropout_cost,
         updates=updates,
         givens={
             x: train_set_x[index * batch_size: (index + 1) * batch_size],
